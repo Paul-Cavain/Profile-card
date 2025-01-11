@@ -1,43 +1,4 @@
-const SkillsList = () => {
-  const skillsItems = [
-    {
-      id: 1,
-      name: "React",
-      emoji: "/images/react.png",
-      color: "#123456",
-    },
-    {
-      id: 2,
-      name: "HTML + CSS",
-      emoji: "images/html.png",
-      color: "orangered",
-    },
-    {
-      id: 3,
-      name: "Javascript",
-      emoji: "images/js.png",
-      color: "#FFA600FF",
-    },
-    {
-      id: 4,
-      name: "Git and Github",
-      emoji: "images/github.png",
-      color: "red",
-    },
-    {
-      id: 5,
-      name: "Web design",
-      emoji: "/images/figma.png",
-      color: "#0EC4B1FF",
-    },
-    {
-      id: 6,
-      name: "Svelte",
-      emoji: "/images/svelte.png",
-      color: "#561249FF",
-    },
-  ];
-
+const SkillsList = ({ skillsItems }) => {
   return (
     <div className="flex justify-center items-start pb-8 px-4 md:px-0">
       <div className="grid grid-cols-2 gap-2">
