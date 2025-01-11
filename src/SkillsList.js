@@ -39,7 +39,7 @@ const SkillsList = () => {
   ];
 
   return (
-    <div className="flex justify-center items-start pb-8">
+    <div className="flex justify-center items-start pb-8 px-4 md:px-0">
       <div className="grid grid-cols-2 gap-2">
         {skillsItems.map((skill) => (
           <div
