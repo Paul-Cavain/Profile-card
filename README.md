@@ -1,5 +1,5 @@
 ### 02. React JS Series [Ultimate Course]
-![profile card](https://github.com/user-attachments/assets/b42aeb2e-99d8-4aa2-93d2-4d41657d07bb)
+![profilecard](https://github.com/user-attachments/assets/994603fa-f18c-4ce6-9f0f-218665b05e7f)
 
 ##### React Componets
 
