@@ -1,4 +1,6 @@
-### 02. React JS Series [Ultimate Course]
+#### Ultimate Course First Challenge [Profile card]
+
+This project is built using the learned ideas of components, props and JSX
 
 ##### React Componets
 
@@ -8,5 +10,6 @@
 
 ##### Passing and Receiving Props
 
+    NOTE
     - No immutation of props
     - React uses one way data flow
