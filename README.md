@@ -1,6 +1,8 @@
-#### Ultimate Course First Challenge [Profile card]
+### 02. React JS Series [Ultimate Course]
 
-This project is built using the learned ideas of components, props and JSX
+![profilecard](https://github.com/user-attachments/assets/2f1f46e8-ff67-4f23-8481-c09be97acb72)
+
+This project is built based on a progress learning ideas of components, props and Jsx.
 
 ##### React Componets
 
